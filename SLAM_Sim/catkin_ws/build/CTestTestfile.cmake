@@ -1,0 +1,38 @@
+# CMake generated Testfile for 
+# Source directory: /home/build-error-ubuntu-1804/carletonSLAM/SLAM_Sim/catkin_ws/src
+# Build directory: /home/build-error-ubuntu-1804/carletonSLAM/SLAM_Sim/catkin_ws/build
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+subdirs("gtest")
+subdirs("third_party/image_pipeline/image_pipeline")
+subdirs("jetauto_example")
+subdirs("jetauto_simulations/jetauto_moveit_config")
+subdirs("jetauto_navigation")
+subdirs("jetauto_peripherals")
+subdirs("third_party/mpu_6050_driver")
+subdirs("jetauto_interfaces")
+subdirs("jetauto_driver/hiwonder_servo/hiwonder_servo_driver")
+subdirs("jetauto_driver/hiwonder_servo/hiwonder_servo_msgs")
+subdirs("jetauto_driver/jetauto_arm_kinematics")
+subdirs("jetauto_simulations/jetauto_gazebo")
+subdirs("jetauto_driver/jetauto_sdk")
+subdirs("jetauto_slam")
+subdirs("jetauto_driver/hiwonder_servo/hiwonder_servo_controllers")
+subdirs("jetauto_calibration")
+subdirs("third_party/ros_astra_camera")
+subdirs("third_party/image_pipeline/image_proc")
+subdirs("third_party/image_pipeline/image_publisher")
+subdirs("jetauto_driver/jetauto_controller")
+subdirs("jetauto_app")
+subdirs("jetauto_bringup")
+subdirs("third_party/image_pipeline/image_view")
+subdirs("third_party/image_pipeline/stereo_image_proc")
+subdirs("third_party/image_pipeline/depth_image_proc")
+subdirs("jetauto_arena")
+subdirs("jetauto_multi")
+subdirs("third_party/rrt_exploration")
+subdirs("third_party/image_pipeline/image_rotate")
+subdirs("jetauto_simulations/jetauto_description")
+subdirs("third_party/explore")
+subdirs("third_party/virtual_wall")

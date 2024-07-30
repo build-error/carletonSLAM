@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/build-error-ubuntu-1804/carletonSLAM/SLAM_Sim/catkin_ws/devel/setup.sh
